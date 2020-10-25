@@ -1,5 +1,5 @@
 # mpv_config
-自己用的 mpv 配置文件哒。
+自己用的 mpv 配置文件哒，内容都是抄的啦。
 
 原文件:
 https://github.com/Argon-/mpv-config/blob/master/mpv.conf
