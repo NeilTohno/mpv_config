@@ -1,6 +1,13 @@
 # mpv_config
 自己用的 mpv 配置文件哒，内容都是抄的啦。
 
+MPV下载
+https://sourceforge.net/projects/mpv-player-windows/files/64bit/
+新人上手包下载
+https://neil78.lanzous.com/b00u0cave
+密码:3tt1
+
+
 原文件:
 https://github.com/Argon-/mpv-config/blob/master/mpv.conf
 
