@@ -15,6 +15,8 @@ https://github.com/Argon-/mpv-config/blob/master/mpv.conf
 搬了很多内容:
 分享一下自己的 mpv 配置， cczzhh @ vcb-s 论坛
 
+大佬的中文注释版 mpv.conf，想要学的话，看这里
+https://github.com/hooke007/MPV_lazy/blob/master/mpv.conf
 
 注意：
 60Hz 刷新率看 23.976 帧 等视频会出现卡顿问题，
