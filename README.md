@@ -31,3 +31,6 @@ https://github.com/hooke007/MPV_lazy/blob/master/mpv.conf
 
  # 关于修复背景音过大的代码造成重采样的问题，看下面额
  https://github.com/mpv-player/mpv/issues/8591
+
+使用颜色配置文件，要看清楚颜色空间  
+![颜色空间.png](https://github.com/NeilTohno/mpv_config/raw/main/%E9%A2%9C%E8%89%B2%E7%A9%BA%E9%97%B4.png)
