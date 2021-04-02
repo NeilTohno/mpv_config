@@ -4,6 +4,9 @@
 # MPV下载
 https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
+#大佬的教程，  [win10] mpv播放器的使用教程【入门+进阶】
+https://bbs.vcb-s.com/thread-7443-1-1.html
+
 # 新人上手包下载
 https://neil78.lanzous.com/b00u0cave
 密码:3tt1
@@ -24,7 +27,7 @@ https://github.com/hooke007/MPV_lazy/blob/master/mpv.conf
 或者直接切换到 120Hz，当然前提是有高刷新率显示器。
 
 
-# 问，是不是 60Hz 显示器只能添加 23Hz、24Hz、25Hz 才能没有卡顿感，
+# 问，是不是 60Hz 显示器只能添加 23Hz、24Hz、25Hz 才能没有卡顿感
 答，理论上双倍的也行啊额 (*/ω＼*)， 46Hz，48Hz，50Hz
 
 ![创建刷新率图.png](https://github.com/NeilTohno/mpv_config/raw/main/Custom%20Resolution%20Utility_%E5%88%9B%E5%BB%BA%E5%88%B7%E6%96%B0%E7%8E%87%E5%9B%BE.png)  
