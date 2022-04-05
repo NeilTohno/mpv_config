@@ -1,4 +1,4 @@
-#打开 cmd.exe
+#打开 cmd.exe 复制粘贴
 
 #请自己修改文件位置
 
@@ -11,5 +11,7 @@ xcopy C:\ZHD_PG\mpv\portable_config\scripts Y:\bak\scripts /s /e /y
 xcopy C:\ZHD_PG\mpv\portable_config\shaders Y:\bak\shaders /s /e /y
 
 "c:/program files/winrar/winrar.exe" a -s -ma5 -md128 -m5 "D:\soft\mpv_Setup\portable_config.rar"  Y:\bak
+
+rmdir /s /q  Y:\bak
 
 #以上。
