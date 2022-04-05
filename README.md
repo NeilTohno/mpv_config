@@ -26,7 +26,7 @@ https://github.com/hooke007/MPV_lazy/blob/master/mpv.conf
 或者直接切换到 120Hz，当然前提是有高刷新率显示器。
 
 # 配置备份方法
-https://github.com/NeilTohno/mpv_config/blob/main/%E9%85%8D%E7%BD%AE%E5%A4%87%E4%BB%BD%E6%96%B9%E6%B3%95.txt
+https://github.com/NeilTohno/mpv_config/blob/main/配置备份方法.txt
 
 # 问，是不是 60Hz 显示器只能添加 23Hz、24Hz、25Hz 才能没有卡顿感
 答，理论上双倍的也行啊额 (*/ω＼*)， 46Hz，48Hz，50Hz
