@@ -1,0 +1,15 @@
+#打开 cmd.exe
+
+#请自己修改文件位置
+
+MKDIR "Y:\bak" 
+xcopy C:\ZHD_PG\mpv\portable_config Y:\bak /s /e /t /y
+
+xcopy C:\ZHD_PG\mpv\portable_config Y:\bak /y
+
+xcopy C:\ZHD_PG\mpv\portable_config\scripts Y:\bak\scripts /s /e /y
+xcopy C:\ZHD_PG\mpv\portable_config\shaders Y:\bak\shaders /s /e /y
+
+"c:/program files/winrar/winrar.exe" a -s -ma5 -md128 -m5 "D:\soft\mpv_Setup\portable_config.rar"  Y:\bak
+
+#以上。
