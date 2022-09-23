@@ -4,6 +4,9 @@
 ###  MPV下载
 https://sourceforge.net/projects/mpv-player-windows/files/64bit/
 
+新版棒棒的
+https://sourceforge.net/projects/mpv-player-windows/files/64bit-v3/
+
 ### 大佬的教程，  [win10] mpv播放器的使用教程【入门+进阶】
 https://bbs.vcb-s.com/thread-7443-1-1.html
 
